@@ -43,7 +43,7 @@ const Navbar = () => {
                                 <ul>
                                     <div>{nitem.dropDownItem.map(ditem=>(
 
-                                        <li>{ditem.dropItem}ami tumake vvslo basi</li>
+                                        <li>{ditem.dropItem}</li>
                                 
                                 
                                     ))}</div>
